@@ -37,3 +37,67 @@ Header tags in HTML define the size and style of text elements. Each header is d
 <b>Output</b>
 
 <img src="https://i.postimg.cc/7Z8Qm8wY/download-3.png" width="328"/>
+<br>
+</br>
+
+## Styling
+
+Styling can be applied to various properties in your HTML file such as links, text, images, and containers.
+
+<b>Here are some examples</b>
+
+### Images
+
+<b>Syntax</b>
+```html
+<img style="border-radius: 40px" src="your_image.png">
+```
+<b>Output</b>
+
+<img src="https://i.postimg.cc/7Z8Qm8wY/download-3.png" width="328"/>
+<br>
+</br>
+
+### Text
+```html
+<p style="color: blue">This is some blue text!</p>
+```
+<b>Output</b>
+
+No preview is available.
+<br>
+</br>
+
+### Containers
+```html
+<div style="color: blue">
+  <h1>Header</h1>
+  <p>Paragraph</p>
+</div>
+```
+<b>Output</b>
+
+No preview available.
+<br>
+</br>
+
+### Containers
+```html
+<div style="color: blue">
+  <h1>Header</h1>
+  <p>Paragraph</p>
+</div>
+```
+### Links/Buttons
+
+<b>Buttons</b>
+```html
+<button style="background: blue; border-radius: 5px; color: white; padding: 10px;>Button</button>
+```
+
+<b>Links</b>
+```html
+<a style="color: red">Link</a>
+```
+<br>
+</br>
