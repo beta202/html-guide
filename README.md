@@ -1,6 +1,6 @@
 <p align="center">
 <img style="width: 100px;" align="center" src="https://svgshare.com/i/wAo.svg"> 
-<h1><p align="center">html-development</p></h1>
+<h1><p align="center">html-guide</p></h1>
 <h3 align="center">Some resources to help enhance HTML webpages</h3>
 </p>
 <br>
