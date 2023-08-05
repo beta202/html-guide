@@ -15,6 +15,7 @@
 </br>
 
 ## Headers
+Header tags in HTML define the size and style of text elements. Each header is denoted by the letter "h" followed by a number from 1 to 6, with the smallest number representing the largest font size.
 
 | Type | Output |
 | ------------- | ------------- |
@@ -24,3 +25,15 @@
 | ``h4`` | <h4>Header 4</h4>
 | ``h5`` | <h5>Header 5</h5>
 | ``h6`` | <h6>Header 6</h6>
+<br>
+</br>
+
+## Images
+
+<b>Syntax</b>
+```html
+<img src="your_image.png">
+```
+<b>Output</b>
+
+<img src="https://i.postimg.cc/7Z8Qm8wY/download-3.png" width="328"/>
