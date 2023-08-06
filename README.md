@@ -99,5 +99,12 @@ No preview available.
 ```html
 <a style="color: red">Link</a>
 ```
+
+## Making Links
+
+```html
+<a href="https://google.com">Link</a>
+```
+<b>This link will take you to Google.com.</b>
 <br>
 </br>
