@@ -11,6 +11,7 @@
 1. [Headers](#headers)
 2. [Images](#headers)
 3. [Styling Properties](#styling)
+4. [Links](#links)
 <br>
 </br>
 
@@ -100,7 +101,7 @@ No preview available.
 <a style="color: red">Link</a>
 ```
 
-## Making Links
+## Links
 
 ```html
 <a href="https://google.com">Link</a>
