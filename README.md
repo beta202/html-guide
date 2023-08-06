@@ -9,7 +9,7 @@
 ## Table of Contents
 
 1. [Headers](#headers)
-2. [Images](#headers)
+2. [Images](#images)
 3. [Styling Properties](#styling)
 4. [Links](#links)
 <br>
