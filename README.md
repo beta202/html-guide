@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+<a name="topPage"></a>
 <p align="center">
 <img style="width: 100px;" align="center" src="https://svgshare.com/i/wAo.svg"> 
 <h1><p align="center">html-guide</p></h1>
@@ -16,7 +16,7 @@
 <br>
 </br>
 
-<p align="right">(<a href="#readme-top">return to top</a>)</p>
+<p align="right">(<a href="#topPage">return to top</a>)</p>
 
 ## Headers
 Header tags in HTML define the size and style of text elements. Each header is denoted by the letter "h" followed by a number from 1 to 6, with the smallest number representing the largest font size.
@@ -32,7 +32,7 @@ Header tags in HTML define the size and style of text elements. Each header is d
 <br>
 </br>
 
-<p align="right">(<a href="#readme-top">return to top</a>)</p>
+<p align="right">(<a href="#topPage">return to top</a>)</p>
 
 ## Images
 
@@ -46,7 +46,7 @@ Header tags in HTML define the size and style of text elements. Each header is d
 <br>
 </br>
 
-<p align="right">(<a href="#readme-top">return to top</a>)</p>
+<p align="right">(<a href="#topPage">return to top</a>)</p>
 
 ## Styling
 
@@ -66,7 +66,7 @@ Styling can be applied to various properties in your HTML file such as links, te
 <br>
 </br>
 
-<p align="right">(<a href="#readme-top">return to top</a>)</p>
+<p align="right">(<a href="#topPage">return to top</a>)</p>
 
 ### Text
 ```html
@@ -91,7 +91,7 @@ No preview available.
 <br>
 </br>
 
-<p align="right">(<a href="#readme-top">return to top</a>)</p>
+<p align="right">(<a href="#topPage">return to top</a>)</p>
 
 ### Containers
 ```html
@@ -101,7 +101,7 @@ No preview available.
 </div>
 ```
 
-<p align="right">(<a href="#readme-top">return to top</a>)</p>
+<p align="right">(<a href="#topPage">return to top</a>)</p>
 
 ### Links/Buttons
 
