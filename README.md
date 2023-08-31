@@ -120,6 +120,6 @@ No preview available.
 ```html
 <a href="https://google.com">Link</a>
 ```
-<b>This link will take you to Google.com.</b>
+<b>This link will take you to Google.com. All links will be in the quotes after "href."</b>
 <br>
 </br>
